@@ -1,5 +1,3 @@
-# 👋 Welcome to My GitHub Profile!
-
 ## 🌟 About Me
 
 I'm a passionate **Red Team Operator / Pentester** specializing in:
