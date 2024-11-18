@@ -1,27 +1,35 @@
-## 🌟 About Me
+# 👾 Offensive Security Enthusiast | Red Team Operator | CVE Hunter  
 
-I'm a passionate **Red Team Operator / Pentester** specializing in:
-- Offensive security, including advanced red teaming tactics and exploit development.
-- Malware analysis and reverse engineering.
-- Binary exploitation and rootkit development.
-- Real-world penetration testing and Capture The Flag (CTF) competitions.
+Hello! I'm an offensive security professional with a passion for uncovering and exploiting vulnerabilities to make systems stronger and more secure. From advanced red teaming to binary exploitation, reverse engineering, and malware analysis, I focus on solving complex security challenges.
 
-## 🛠️ Skills
-- Reverse engineering & binary exploitation.
-- Advanced malware analysis and rootkit design.
-- Hands-on experience in exploit development.
-- Secure coding and systems hardening.
-- Continuous learning and staying ahead of the latest security trends.
+---
 
-## 🎯 Achievements
-- Passed **Certified Network Penetration Tester (CNPT)** exam with **Merit**.
-- Credited with **CVE-2024-43416** for a vulnerability identified in GLPI.
-- Active contributor to the **cybersecurity community** through bug bounty programs and open-source projects.
+## 🏆 Achievements  
+- **Certified CNPen** — Passed with Merit.  
+- **CVE Contributions** — Recognized for uncovering and reporting **[CVE-2024-43416](https://www.cve.org/CVERecord?id=CVE-2024-43416)**.  
 
-## 📚 Always Learning
-I’m dedicated to exploring new areas of cybersecurity and improving my offensive security arsenal to stay ahead in the ever-evolving world of cyber threats.
+---
 
-## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/joão-martinez)
+## 🔍 Expertise  
 
-Thanks for visiting!
+- **Red Teaming & Advanced Penetration Testing**  
+  - Specialized in Linux, Windows, and Active Directory environments.  
+
+- **Reverse Engineering & Exploit Development**  
+  - Focused on uncovering system-level vulnerabilities.  
+
+- **Malware Analysis & Development**  
+  - Creating evasive payloads to bypass modern AV/EDRs.  
+
+- **Rootkit/Bootkit Development**  
+  - Low-level system manipulation and stealth techniques.  
+
+- **Programming**  
+  - Proficient in C, Python, and Assembly for low-level and systems programming.  
+
+---
+
+## 📚 Continuous Learning  
+I believe that understanding offensive techniques is key to building resilient systems. Whether it's participating in CTFs, analyzing malware, or developing exploits, I work to keep up with the fast-changing field of cybersecurity and stay prepared for new challenges.
+
+---
