@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**0xASTRA/0xASTRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
 
-Here are some ideas to get you started:
+I'm a passionate **Red Team Operator / Pentester** specializing in:
+- Offensive security, including advanced red teaming tactics and exploit development.
+- Malware analysis and reverse engineering.
+- Binary exploitation and rootkit development.
+- Real-world penetration testing and Capture The Flag (CTF) competitions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Reverse engineering & binary exploitation.
+- Advanced malware analysis and rootkit design.
+- Hands-on experience in exploit development.
+- Secure coding and systems hardening.
+- Continuous learning and staying ahead of the latest security trends.
+
+## 🎯 Achievements
+- Passed **Certified Network Penetration Tester (CNPT)** exam with **Merit**.
+- Credited with **CVE-2024-43416** for a vulnerability identified in GLPI.
+- Active contributor to the **cybersecurity community** through bug bounty programs and open-source projects.
+
+## 📚 Always Learning
+I’m dedicated to exploring new areas of cybersecurity and improving my offensive security arsenal to stay ahead in the ever-evolving world of cyber threats.
+
+## 📫 Let's Connect
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/joão-martinez)
+
+Thanks for visiting!
