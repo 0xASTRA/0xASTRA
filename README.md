@@ -1,4 +1,4 @@
-# 👾 Offensive Security Enthusiast | Red Team Operator | CVE Hunter  
+# 👾 Offensive Security Enthusiast | Red Team Operator | Vulnerability Researcher  
 
 Hello! I'm an offensive security professional with a passion for uncovering and exploiting vulnerabilities to make systems stronger and more secure. From advanced red teaming to binary exploitation, reverse engineering, and malware analysis, I focus on solving complex security challenges.
 
