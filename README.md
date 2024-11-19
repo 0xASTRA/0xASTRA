@@ -1,6 +1,6 @@
 # 👾 Offensive Security Enthusiast | Red Team Operator | Vulnerability Researcher  
 
-Hello! I'm an offensive security professional with a passion for uncovering and exploiting vulnerabilities to make systems stronger and more secure. From advanced red teaming to binary exploitation, reverse engineering, and malware analysis, I focus on solving complex security challenges.
+I'm an offensive security professional dedicated to identifying and exploiting vulnerabilities to strengthen system defenses. With expertise in advanced red teaming, binary exploitation, reverse engineering, and malware analysis, I focus on solving complex security challenges.
 
 ---
 
@@ -16,7 +16,7 @@ Hello! I'm an offensive security professional with a passion for uncovering and 
   - Specialized in Linux, Windows, and Active Directory environments.  
 
 - **Reverse Engineering & Exploit Development**  
-  - Focused on uncovering system-level vulnerabilities.  
+  - Expert in identifying and exploiting system-level vulnerabilities.
 
 - **Malware Analysis & Development**  
   - Creating evasive payloads to bypass modern AV/EDRs.  
@@ -25,7 +25,7 @@ Hello! I'm an offensive security professional with a passion for uncovering and 
   - Low-level system manipulation and stealth techniques.  
 
 - **Programming**  
-  - Proficient in C, Python, and Assembly for low-level and systems programming.  
+  - Skilled in C, Python, and Assembly for low-level and systems programming.  
 
 ---
 
