@@ -1,4 +1,4 @@
-# 👾 Red Team Operator | Vulnerability Researcher 👾
+# 👾 Red Team Operator | Vulnerability Researcher
 
 I'm an offensive security professional dedicated to identifying and exploiting vulnerabilities to strengthen system defenses. With expertise in red teaming, binary exploitation, reverse engineering, and malware analysis, I focus on solving complex security challenges.
 
