@@ -1,18 +1,18 @@
-# 👾 Red Team Operator | Vulnerability Researcher  
+# 👾 Red Team Operator | Vulnerability Researcher 👾
 
 I'm an offensive security professional dedicated to identifying and exploiting vulnerabilities to strengthen system defenses. With expertise in red teaming, binary exploitation, reverse engineering, and malware analysis, I focus on solving complex security challenges.
 
 ---
 
 ## 🏆 Achievements  
-- **Certified CNPen** — Passed with Merit.  
+- **Certified Network Penetration Tester (CNPen)** — Passed with Merit.  
 - **CVE Contributions** — Recognized for uncovering and reporting **[CVE-2024-43416](https://www.cve.org/CVERecord?id=CVE-2024-43416)**.  
 
 ---
 
 ## 🔍 Expertise  
 
-- **Red Teaming & Advanced Penetration Testing**  
+- **Red Teaming & Penetration Testing**  
   - Specialized in Linux, Windows, and Active Directory environments.  
 
 - **Reverse Engineering & Exploit Development**  
