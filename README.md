@@ -5,8 +5,7 @@ I'm an offensive security professional dedicated to identifying and exploiting v
 ---
 
 ## 🏆 Achievements  
-- **Certified Network Penetration Tester (CNPen)** — Passed with Merit.  
-- **CVE Contributions** — Recognized for uncovering and reporting **[CVE-2024-43416](https://www.cve.org/CVERecord?id=CVE-2024-43416)**.  
+- **REDACTED**
 
 ---
 
